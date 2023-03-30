@@ -24,7 +24,7 @@ export default function Root() {
       </Head>
       <Body>
        
-      <img src = 'MicrosoftTeams-image (13).png'>
+      <img src = 'solid-quickstart/public/MicrosoftTeams-image (13).png'>
       </Body>
     </Html>
   );
